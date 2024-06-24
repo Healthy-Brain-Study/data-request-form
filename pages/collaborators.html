@@ -1,0 +1,45 @@
+<div class="form-step" data-button-title="Location & Collaborators">
+    <div class="mb-6">
+        <h2 class="font-bold text-lg mb-4">Check Previous Proposals</h2>
+        <blockquote class="p-4 my-4 border-s-4 border-gray-300 bg-gray-50 dark:border-gray-500 dark:bg-gray-800">
+            It is your responsibility to check if previous proposals used HBS data to investigate the same research
+            question. The goal of the HBS is to promote collaborations. If you find a proposal similar to yours, reach
+            out to the responsible researchers.
+        </blockquote>
+        <div class="flex items-center mb-2">
+            <input type="checkbox" class="checkbox checkbox-primary mr-2" data-placeholder="Checked proposals"
+                name="checked_proposals" value="Yes" required="true">
+            <label for="checked_proposals" class="label cursor-pointer text-sm">
+                <span class="label-text">I have checked previously accepted project proposals</span>
+            </label>
+        </div>
+    </div>
+
+    <div class="mb-6">
+        <h2 class="font-bold text-lg mb-4">Research Location</h2>
+        <label class="label cursor-pointer">
+            <span class="label-text">Will any part of the planned research be performed outside of Radboud
+                campus?</span>
+        </label>
+        <select class="select w-full max-w-xs" data-placeholder="Commercial partner?">
+            <option>No</option>
+            <option>Non-commercial partner</option>
+            <option>Commercial partner</option>
+        </select>
+    </div>
+
+    <div>
+        <h2 class="font-bold text-lg mb-4">Collaborators Involved</h2>
+        <!-- Add Collaborator Button -->
+        <button id="addCollaboratorButton" type="button" class="btn btn-primary my-4">Add Collaborator</button>
+
+        <!-- Collaborator Table Grid Wrapper -->
+        <div class="overflow-x-auto">
+            <div id="collaboratorTable" class="min-w-full">
+                <!-- Rows will be added here dynamically -->
+                <div id="collaboratorTableBody" class="flex flex-col">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

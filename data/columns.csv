@@ -1,0 +1,175 @@
+﻿Name;PEP Column;Category;A1;A2;A3;P;U;M;Abbreviation;Bio-sample;Location;Table Name;Measure;Description
+Demographics - age;demographics_age;General Information;x;;;😊;😊;😊;;;;Pre-visit online questionnaires.;;Age at time of first lab visit
+Demographics - sex;demographics_sex;General Information;x;;;😊;😊;😊;;;;Pre-visit online questionnaires.;;Sex of participant
+Demographics - handedness;handedness;General Information;x;;;😊;😊;😊;;;;Pre-visit online questionnaires.;;Handedness
+Demographics - education;demographics_education_X;General Information;x;;;😊;😊;😊;LIS;;;Pre-visit online questionnaires.;;Highest level of education
+Demographics - household;demographics_household_X;General Information;x;x;x;😊;😊;😊;LIS;;;Pre-visit online questionnaires.;;Household composition
+Demographics - income;demographics_income_X;General Information;x;x;x;😊;😊;😊;LIS;;;Pre-visit online questionnaires.;;Household income
+Demographics - occupation;demographics_occupation_X;General Information;x;x;x;😊;😊;😊;LIS;;;Pre-visit online questionnaires.;;Occupation, highest level of education, type of dwelling, country of birth, country of birth parents, household income
+Demographics - home;demographics_home_X;General Information;x;x;x;😊;😊;😊;LIS;;;Pre-visit online questionnaires.;;type of home
+Demographics - country of birth (participant, parents);demographics_advanced_1;General Information;x;;;😊;😊;😊;LIS;;;Pre-visit online questionnaires.;;country of birth, country of birth parents
+Pregnancy;pregnancy_1;General Information;x;;;😊;😊;😊;PRE;;;Pre-visit online questionnaires.;;Number of pregnancies, time to pregnancy, pregnancy outcome, hormones (anticonception), current child wish
+Menstrual cycle;menstrual-cycle_X;General Information;x;x;x;😊;😊;😊;MCY;;;Pre-visit online questionnaires.;;Menstrual cycle
+Smoking history and current smoking, Fagerstrom Test of Nicotine Dependence;smoking_X;Lifestyle;x;x;x;😊;😊;😊;SMH_FND;;;Pre-visit online questionnaires.;;Past behavior, age of onset Current behavior, frequency, and quantity Nicotine dependence (for current or ever smokers)
+Alcohol and Alcohol Use Disorder Identification Test;alcohol_X;Lifestyle;x;x;x;😊;😊;😊;ALC_AUD;;;Pre-visit online questionnaires.;;Frequency and quantity in the last month, age of onset of alcohol use, binge drinking Heavy alcohol use and associated problems
+Substance matrix Mate-q;substance-use_X;Lifestyle;x;x;x;😊;😊;😊;SMQ;;;Pre-visit online questionnaires.;;Amount and frequency of substance use
+Food Frequency Questionnaire ;food_1;Lifestyle;x;;;;;;FFQ;;;Pre-visit online questionnaires.;;Quantitative food intake
+Sedentary Behavior Questionnaire ;sedentary-behavior_X;Lifestyle;x;x;x;😊;😊;😊;SBQ;;;Pre-visit online questionnaires.;;Sedentary behavior in various domains (e.g. home, work, transportation)
+Pittsburgh Sleep Quality Index ;sleep-quality_X;Lifestyle;x;x;x;😊;😊;😊;PSQ;;;Pre-visit online questionnaires.;;Sleep quality
+Dream Recall Frequency Scale ;dreaming_X;Lifestyle;x;x;x;😊;😊;😊;DRF;;;Pre-visit online questionnaires.;;Dream recall
+The Internet Gaming Disorder Scale;gaming_X;Lifestyle;x;x;x;😊;😊;😊;IGD;;;Pre-visit online questionnaires.;;Problematic gaming
+The Social Media Disorder Scale;social-media_X;Lifestyle;x;x;x;😊;😊;😊;SMD;;;Pre-visit online questionnaires.;;Problematic social media use
+Short Media Multitasking Measure;media-multitasking_X;Lifestyle;x;x;x;😊;😊;😊;MMI;;;Pre-visit online questionnaires.;;Use of different media simultaneously
+Satisfaction with life scale;life-satisfaction_X;Well-being;x;x;x;😊;😊;😊;SLS;;;Pre-visit online questionnaires.;;Well-being
+Cantril ladder;cantril_X;Well-being;x;x;x;😊;😊;😊;CAN;;;Pre-visit online questionnaires.;;Well-being
+Five Facet Mindfulness Questionnaire – Short Form;mindfulness_X;Well-being;x;x;x;😊;😊;😊;FFM;;;Pre-visit online questionnaires.;;Mindfulness
+Fitness (Åstrand bike test);;Physical activity;x;x;x;;;;;;Campus;Physiological assessments.;;
+Sedentary behavior (ActivPal sensor);;Physical activity;x;x;x;;;;;;Home;Physiological assessments.;;
+Heart rate (acute stress challenge/cold pressor test);phy_heartrate_X;Stress;x;x;x;😊;😊;😊;;;Campus;Physiological assessments.;;
+Heart rate (Empatica E4);;Stress;x;x;x;;;;;;Home;Physiological assessments.;;
+Heart rate variability (Empatica E4);;Stress;x;x;x;;;;;;Home;Physiological assessments.;;
+Skin conductance (Empatica E4);;Stress;x;x;x;;;;;;Home;Physiological assessments.;;
+Skin temperature (Empatica E4);;Stress;x;x;x;;;;;;Home;Physiological assessments.;;
+Subjective stress levels (acute stress challenge/cold pressor test);phy_stress_subjective_X;Stress;x;x;x;😊;😊;😊;;;Campus;Physiological assessments.;;
+Sleep duration (Zmax);;Sleep;x;x;x;;;;;;Home;Physiological assessments.;;
+Sleep stages (Zmax);;Sleep;x;x;x;;;;;;Home;Physiological assessments.;;
+Basic: height, weight, hip-waist ratio and circumference;phy_bodycomposition-basic_X;Body Composition;x;x;x;😊;😊;😊;;;Campus;Physiological assessments.;;
+Advanced: Body fat percentage and weight, body water percentage, skeletal muscle mass, body fat mass and fat-free mass index;phy_bodycomposition-advanced_X;Body Composition;x;x;x;😊;😊;😊;;;Campus;Physiological assessments.;;
+Subjective pain levels (acute stress challenge/cold pressor test);phy_pain_subjective_X;Pain;x;x;x;😊;😊;😊;;;Campus;Physiological assessments.;;
+Electrical pain thresholds;phy_pain_threshold_X;Pain;x;x;x;😊;😊;😊;;;Campus;Physiological assessments.;;
+Blood pressure;phy_bloodpressure_X;Cardiovascular;x;x;x;😊;😊;😊;;;Campus;Physiological assessments.;;
+Carotid artery reactivity (acute stress challenge/cold pressor test);phy_carotid-reactivity_X;Cardiovascular;x;x;x;😊;😊;😊;;;Campus;Physiological assessments.;;
+Activity;buw_ema_activity_X;Ecological momentary assessment;x;x;x;😊;😊;😊;;;Home;Ecological Momentary Assessment;;Questions about current activity
+Anticipation/memory;buw_ema_anticipation_memory_X;Ecological momentary assessment;x;x;x;😊;😊;😊;;;Home;Ecological Momentary Assessment;;Pleasantness of most significant recent event and anticipation of upcoming event
+Control (stress, pain, hunger, tiredness);buw_ema_control_X;Ecological momentary assessment;x;x;x;😊;😊;😊;;;Home;Ecological Momentary Assessment;;Control questions on current tiredness, pain, hunger, physical wellbeing
+Mood;buw_ema_mood_X;Ecological momentary assessment;x;x;x;😊;😊;😊;;;Home;Ecological Momentary Assessment;;Questions about current mood
+Social;buw_ema_social_X;Ecological momentary assessment;x;x;x;😊;😊;😊;;;Home;Ecological Momentary Assessment;;Questions about (online) social company
+Substances;buw_ema_substances_X;Ecological momentary assessment;x;x;x;😊;😊;😊;;;Home;Ecological Momentary Assessment;;Questions about recent substance use
+Full questionnaire;buw_ema_full_X;Ecological momentary assessment;x;x;x;😊;😊;😊;;;Home;Ecological Momentary Assessment;;All sections combined
+Gut microbiota#;;Bio samples;x;x;x;😊;😊;;;Stool;Home;Bio-samples and silicone wristband.;;
+Fecal metabolome#;;Bio samples;x;x;x;;;;;Stool;Home;Bio-samples and silicone wristband.;;
+Ions, such as calcium, potassium, sodium, magnesium;;Bio samples;x;x;x;;;;;Urine (first morning);Home;Bio-samples and silicone wristband.;;
+"Salivary cortisol levels (short term; two baseline samples, sample before, immediately after and 20min. after actute stress challenge)";bio_cortisol_saliva_X;Bio samples;x;x;x;😊;😊;😊;;Saliva;Home, campus;Bio-samples and silicone wristband.;;
+DNA stock#;;Bio samples;6 ml*;;;;;;;Blood - EDTA plasma;Campus;Bio-samples and silicone wristband.;;
+RNA;;Bio samples;3x 2,5 ml*;3x 2,5 ml*;3x 2,5 ml*;;;;;Blood - PAX gene;Campus;Bio-samples and silicone wristband.;;
+Cell count and white blood cell differential;bio_cellcount_blood_X;Bio samples;x;x;x;😊;😊;😊;;Blood - EDTA diff;Campus;Bio-samples and silicone wristband.;;
+Pro-inflammatory cytokines#;;Bio samples;"4x 10 ml*
+1x 3 ml*";"4x 10 ml*
+1x 3 ml*";"4x 10 ml*
+1x 3 ml*";😊;😊;😊;;Blood - EDTA plasma;Campus;Bio-samples and silicone wristband.;;
+Future analyses (e.g., antibodies, proteomics);;Bio samples;10 ml*;10 ml*;10 ml*;;;;;Blood - serum;Campus;Bio-samples and silicone wristband.;;
+Future analyses (e.g., hormones, metabolomics);;Bio samples;2x 10 ml*;2x 10 ml*;2x 10 ml*;;;;;Blood - heparin plasma;Campus;Bio-samples and silicone wristband.;;
+Cortisol levels (long term)#;;Bio samples;x;x;x;;;;;Hair;Campus;Bio-samples and silicone wristband.;;
+Exposure to chemicals in the surrounding environment;;Bio samples;x;x;x;;;;;Silicone wristband;Home;Bio-samples and silicone wristband.;;
+T1w 3D MPRAGE;mri_t1_X;Neuroimaging;x;x;x;😊;😊;😊;;;;Neuroimaging at the campus.;;Anatomical scan
+rfMRI;mri_resting_state_X;Neuroimaging;x;x;x;😊;😊;😊;;;;Neuroimaging at the campus.;;Resting-state functional scan followed by resting-state questionnaire
+rfMRI registration;mri_resting_state_registration_X;Neuroimaging;x;x;x;😊;😊;😊;;;;Neuroimaging at the campus.;;Resting-state registration data
+mfMRI;mri_movietask_X;Neuroimaging;x;x;x;😊;😊;😊;;;;Neuroimaging at the campus.;;Movie functional scan 
+Fieldmap;;Neuroimaging;x;x;x;😊;😊;;;;;Neuroimaging at the campus.;;Auxiliary scans
+Diffusion-weighted imaging scan;mri_diffusion_X;Neuroimaging;x;;;😊;😊;😊;;;;Neuroimaging at the campus.;;Structural connectivity characterizations and white matter tissue microstructural modelling
+High-resolution T1w 3D MP2RAGE anatomical scan;mri_mp2rage_X;Neuroimaging;;x;;😊;😊;😊;;;;Neuroimaging at the campus.;;Quantitative T1 and cortical myelin mapping
+High-resolution T2*w scan;mri_qsm_X;Neuroimaging;;;x;😊;😊;😊;;;;Neuroimaging at the campus.;;Quantitative T2* and magnetic susceptibility mapping for identification and quantification of iron deposition across the brain
+Imaging-derived phenotypes;;Neuroimaging;x;x;x;;;;;;;Neuroimaging at the campus.;;
+Foraging task;lab_task_foraging_X;Cognition;x;x;x;😊;😊;😊;;;;Cognitive, affective, and behavioral assessments on campus.;The tendency to explore alternatives vs. to exploit a chosen alternative;Participants are presented with a tree and have to decide whether to harvest it for apples and incur a short harvest delay or move to a new tree and incur a longer travel delay
+Serial random-dot motion discrimination;;Cognition;x;x;x;;;;;;;Cognitive, affective, and behavioral assessments on campus.;How predictions from the past are weighted with uncertain sensory information in the present;Participants judge the motion direction of moving dots (up vs. down) and receive auditory feedback about the correctness of their response
+Reward-driven reach-adaptation;;Cognition;x;x;x;;;;;;;Cognitive, affective, and behavioral assessments on campus.;How willing people are to search for more rewarding outcomes in a motor task;Participants make shooting movements toward a target while holding a handle that records pulling and hand rotation movements
+Paired associate memory;;Cognition;x;x;x;;;;;;;Cognitive, affective, and behavioral assessments on campus.;Associative Memory;Participants memorize the associations between pictures of people and names in a study phase and the memory for these associations is tested in a test phase using a cued-recall-test
+Tower of London;;Cognition;x;x;x;;;;;;;Cognitive, affective, and behavioral assessments on campus.;Executive function (planning);Participants are presented with a startling array of different colored, same-sized balls and are requested to move the balls one-by-one, with as little moves as possible to a predefined goal array. 
+Contextual fear generalization (behavioral data);lab_task_contextual-fear-questions_X;Affect;x;x;x;😊;😊;😊;;;;Cognitive, affective, and behavioral assessments on campus.;Behavioral data, avoidance tendency, contingency awareness ;Participants are instructed to attend to the presented stimuli and learn to predict the shock in multiple contexts while assessing eye-blink startle electromyography, subjective report, and avoidance tendencies.
+Contextual fear generalization (physiological data);;Affect;x;x;x;;;;;;;Cognitive, affective, and behavioral assessments on campus.;Physiology;Participants are instructed to attend to the presented stimuli and learn to predict the shock in multiple contexts while assessing eye-blink startle electromyography, subjective report, and avoidance tendencies.
+Emotion regulation task (behavioral data);lab_task_emotion-regulation-ratings_X;Affect;x;x;x;😊;😊;😊;;;;Cognitive, affective, and behavioral assessments on campus.;Subjective mood;Participants are asked to actively regulate their emotions while either neutral or aversive pictures are presented on the computer screen
+Emotion regulation task (physiological data);;Affect;x;x;x;;;;;;;Cognitive, affective, and behavioral assessments on campus.;Physiology;Participants are asked to actively regulate their emotions while either neutral or aversive pictures are presented on the computer screen
+Self-referent encoding;lab_task_self-referent-encoding_X;Affect;x;x;x;😊;😊;😊;;;;Cognitive, affective, and behavioral assessments on campus.;Positive and negative memory bias;Participants endorse and memorize positive and negative words
+Stimulus-response compatibility;;Affect;x;x;x;;;;;;;Cognitive, affective, and behavioral assessments on campus.;Automatic approach or avoidance tendency;Participants are presented with pictures (alcohol vs. soda) and are instructed to approach or avoid a certain condition
+Columbia card task;;Behavior;x;x;x;;;;;;;Cognitive, affective, and behavioral assessments on campus.;Risk preference;A card game that gives participants the repeated choice between risky options and safe options
+Food auction;;Behavior;x;x;x;;;;;;;Cognitive, affective, and behavioral assessments on campus.;Reliable index of people's preference for hedonic (short-term reward) vs. healthy food (long-term reward);Participants bid on different food items (e.g., package of M&Ms, apple)
+Contrast sensitivity;;Vision;x;;;;;;;;;Sensory assessments.;;
+Visual acuity;;Vision;;x;;;;;;;;Sensory assessments.;;
+Color vision;;Vision;;;x;;;;;;;Sensory assessments.;;
+Hearing ability;;Hearing;x;x;x;;;;;;;Sensory assessments.;;
+Toxicology/Exposure;exposure-environment_X;;x;x;x;😊;😊;😊;TOX;;;Post-visit online questionnaires.;Exposure from environment;
+Over-the-counter medication;medication_X;;x;x;x;😊;😊;😊;OCM;;;Post-visit online questionnaires.;Use of nonprescription medication like pain relievers, cough suppressants, etc. ;
+Health complaints;health-complaints_X;;x;x;x;😊;😊;😊;HEC;;;Post-visit online questionnaires.;Complaints like tiredness, nausea, back pain, headache, etc.;
+Adult ADHD Self-Report Scale ;adhd_X;;x;;;😊;😊;😊;ASR;;;Post-visit online questionnaires.;Symptom scale for ADHD;
+Autistic Trait Questionnaire ;autistic-trait_X;;x;;;😊;😊;😊;ATQ;;;Post-visit online questionnaires.;Autistic traits;
+Self-Report Inventory of Depressive Symptomatology ;depression_X;;x;x;x;😊;😊;😊;IDS;;;Post-visit online questionnaires.;Presence and severity of depressive symptoms;
+Anxiety Sensitivity Index ;anxiety-sensitivity_X;;x;;;😊;😊;😊;ASI;;;Post-visit online questionnaires.;Anxiety (trait);
+State and Trait Anxiety Inventory (state);state-anxiety_X;;x;x;x;😊;😊;😊;STS;;;Post-visit online questionnaires.;Anxiety (state);
+Perceived Stress Scale ;perceived-stress_X;;x;x;x;😊;😊;😊;PSS;;;Post-visit online questionnaires.;Stress;
+Utrecht Burnout Scale ;burnout_X;;x;x;x;😊;😊;😊;UBO;;;Post-visit online questionnaires.;Burnout;
+Reactive Proactive Aggression Questionnaire;aggression_X;;x;x;x;😊;😊;😊;RPQ;;;Post-visit online questionnaires.;Aggression;
+Daily hassles and uplifts;hassles-uplifts_X;;x;x;x;😊;😊;😊;DHU;;;Post-visit online questionnaires.;Daily hassles and uplifts;
+Cognitive emotion regulation questionnaire;emotion-regulation_X;;x;x;x;😊;😊;😊;CER;;;Post-visit online questionnaires.;Cognitive regulation of emotion;
+Childhood Trauma Questionnaire ;childhood-trauma_2;;;x;;😊;😊;😊;CTQ;;;Post-visit online questionnaires.;Adverse childhood experiences;
+Life events;life-events_X;;x;x;x;😊;😊;😊;LIE;;;Post-visit online questionnaires.;Threatening life experiences;
+UCLA loneliness scale;loneliness_X;;x;x;x;😊;😊;😊;ULS;;;Post-visit online questionnaires.;Loneliness;
+Need to belong scale;need-to-belong_X;;x;x;x;😊;😊;😊;NBS;;;Post-visit online questionnaires.;Belongingness;
+Multidimensional scale of Perceived Social Support;social-support_X;;x;x;x;😊;😊;😊;MDP;;;Post-visit online questionnaires.;Perceived social support;
+Exposure to work;work-A_X;;x;x;x;😊;😊;😊;WRK_A;;;Post-visit online questionnaires.;Working hours, working schedules, type of employment;
+Workplace commitment;work-B1_X;;x;x;x;😊;😊;😊;WRK_B1;;;Post-visit online questionnaires.;Work-life balanceWorkplace commitment;
+Survey Work-home Interaction – NijmeGen;work-B2_X;;x;x;x;😊;😊;😊;WRK_B2;;;Post-visit online questionnaires.;Work-life balance;
+Employability;work-B3_X;;x;x;x;😊;😊;😊;WRK_B3;;;Post-visit online questionnaires.;;
+Questionnaire on the Experience and Evaluation of Work;work-C_X;;x*;x;x;😊;😊;😊;WRK_C;;;Post-visit online questionnaires.;Job characteristics;
+Populism index;populism_X;;x;x;x;😊;😊;😊;POL;;;Post-visit online questionnaires.;Attitude toward populism;
+Political efficacy;political-efficacy_X;;x;x;x;😊;😊;😊;POE;;;Post-visit online questionnaires.;Attitude towards national government and politics;
+Political participation;political-participation_X;;x;x;x;😊;😊;😊;POP;;;Post-visit online questionnaires.;Political activities;
+EU membership ;eu-membership_X;;x;x;x;😊;😊;😊;EMQ;;;Post-visit online questionnaires.;Attitude towards EU membership;
+BIG-5 NEO-FFI-3;big-5_1;;x;;;😊;😊;😊;BIG;;;Post-visit online questionnaires.;Openness to experience, conscientiousness, neuroticism, extraversion, and agreeableness;
+Sensory Processing Sensitivity ;sensory-processing_3;;;;x;😊;😊;😊;SPS;;;Post-visit online questionnaires.;High sensitivity;
+Barratt Impulsiveness Scale ;impulsiveness_2;;;x;;😊;😊;😊;BIS;;;Post-visit online questionnaires.;Impulsiveness;
+Self-control;self-control_1;;x;;;😊;😊;😊;SCO;;;Post-visit online questionnaires.;Self-control;
+New general self-efficacy scale;self-efficacy_2;;;x;;😊;😊;😊;SEE;;;Post-visit online questionnaires.;Self-efficacy;
+Dispositional greed;greed_3;;;;x;😊;😊;😊;DGR;;;Post-visit online questionnaires.;Greediness;
+Dark triad;dark-triad_1;;x;;;😊;😊;😊;DTR;;;Post-visit online questionnaires.;Narcissism, Machiavellianism, psychopathy;
+Social investment attitudes;social-investment_2;;;x;;😊;😊;😊;SIS;;;Post-visit online questionnaires.;Attitudes toward corporate social responsibility;
+Numeracy test;numeracy_2;;;x;;😊;;😊;NUT;;;Post-visit online questionnaires.;Mathematical abilities;
+Financial literacy;financial-literacy_3;;;;x;😊;;😊;FLI;;;Post-visit online questionnaires.;Financial attitudes, skills;
+Graph literacy ;graph-literacy_1;;x;;;😊;;😊;GLI;;;Post-visit online questionnaires.;Ability to understand the meaning of graphs;
+Cultural intelligence;cultural-intelligence_3;;;;x;😊;;😊;CIN;;;Post-visit online questionnaires.;Ability to relate and work effectively across cultures;
+Higher-order risk preferences - processed data;online_task_risk_processed_X;Decision-making;x;x;x;😊;😊;😊;;;;Post-visit online assessments.;Risk attitudes, prudence, and temperance in financial decision-making;
+Higher-order risk preferences - full data;online_task_risk_fulldata_X;Decision-making;x;x;x;😊;😊;😊;;;;Post-visit online assessments.;Risk attitudes, prudence, and temperance in financial decision-making;
+Equality equivalence test  - processed data;online_task_equality_processed_X;Decision-making;x;x;x;😊;😊;😊;;;;Post-visit online assessments.;Social preferences ;
+Equality equivalence test - full data;online_task_equality_fulldata_X;Decision-making;x;x;x;😊;😊;😊;;;;Post-visit online assessments.;Social preferences ;
+Ambiguity - processed data;online_task_ambiguity_processed_X;Decision-making;x;x;x;😊;😊;😊;;;;Post-visit online assessments.;Ambiguous risk attitudes;
+Ambiguity - full data;online_task_ambiguity_fulldata_X;Decision-making;x;x;x;😊;😊;😊;;;;Post-visit online assessments.;Ambiguous risk attitudes;
+Trust game - processed data;online_task_trust_processed_X;Decision-making;x;x;x;😊;😊;😊;;;;Post-visit online assessments.;Trust and trustworthiness;
+Trust game - full data;online_task_trust_fulldata_X;Decision-making;x;x;x;😊;😊;😊;;;;Post-visit online assessments.;Trust and trustworthiness;
+Public good game - processed data;online_task_public-good_processed_X;Decision-making;x;x;x;😊;😊;😊;;;;Post-visit online assessments.;Altruism, conditional reciprocity;
+Public good game - full data;online_task_public-good_fulldata_X;Decision-making;x;x;x;😊;😊;😊;;;;Post-visit online assessments.;Altruism, conditional reciprocity;
+Time preferences - processed data;online_task_time_processed_X;Decision-making;x;x;x;😊;😊;😊;;;;Post-visit online assessments.;Temporal discounting;
+Time preferences - full data;online_task_time_fulldata_X;Decision-making;x;x;x;😊;😊;😊;;;;Post-visit online assessments.;Temporal discounting;
+Narrative reading;;Language;x;x;x;;;;;;;Post-visit online assessments.;Comprehension of and immersion into a narrative;
+Meta-cognition;online_task_metacognition_X;Cognition;x;x;x;😊;😊;😊;;;;Post-visit online assessments.;Comprehension of and immersion into a narrative;
+Solidarity questionnaire;;Solidarity;x;x;x;;;;;;;Post-visit online assessments.;Culpability, in/out group;
+Auditory simple and choice reaction time task;;Cognition;;;x;;;;;;;Individual Differences in Language Skills test battery.;Processing speed;
+Letter comparison ;;Cognition;;;x;;;;;;;Individual Differences in Language Skills test battery.;Processing speed;
+Visual simple and choice reaction time task ;;Cognition;;;x;;;;;;;Individual Differences in Language Skills test battery.;Processing speed;
+Digit span (forward & backward);;Cognition;;;x;;;;;;;Individual Differences in Language Skills test battery.;Auditory working memory ;
+Corsi block tapping (forward & backward);;Cognition;;;x;;;;;;;Individual Differences in Language Skills test battery.;Visual working memory;
+Raven's advanced progressive matrices - item data;language_ravens-matrices_itemdata;Cognition;;;x;😊;😊;😊;;;;Individual Differences in Language Skills test battery.;Non-verbal intelligence;
+Raven's advanced progressive matrices - final scores;language_ravens-matrices_finalscores;Cognition;;;x;😊;😊;😊;;;;Individual Differences in Language Skills test battery.;Non-verbal intelligence;
+Stairs4Words (2 Runs);;Linguistic knowledge;;;x;;;;;;;Individual Differences in Language Skills test battery.;Linguistic experience: Vocabulary;
+Peabody Picture Vocabulary Test;;Linguistic knowledge;;;x;;;;;;;Individual Differences in Language Skills test battery.;Linguistic experience: Vocabulary;
+Idiom recognition test;;Linguistic knowledge;;;x;;;;;;;Individual Differences in Language Skills test battery.;Linguistic experience: Knowledge of idiomatic expressions;
+Spelling test;;Linguistic knowledge;;;x;;;;;;;Individual Differences in Language Skills test battery.;Linguistic experience: Spelling;
+Author recognition test;;Linguistic knowledge;;;x;;;;;;;Individual Differences in Language Skills test battery.;Linguistic experience: Print exposure;
+Prescriptive grammar;;Linguistic knowledge;;;x;;;;;;;Individual Differences in Language Skills test battery.;Linguistic experience: Prescriptive grammar knowledge;
+Picture naming;;Linguistic processing;;;x;;;;;;;Individual Differences in Language Skills test battery.;Word production;
+Rapid automatized naming;;Linguistic processing;;;x;;;;;;;Individual Differences in Language Skills test battery.;Word production;
+Verbal fluency - item data;language_verbal-fluency_itemdata;Linguistic processing;;;x;😊;😊;😊;;;;Individual Differences in Language Skills test battery.;Word production;
+Verbal fluency - final scores;language_verbal-fluency_finalscores;Linguistic processing;;;x;😊;😊;😊;;;;Individual Differences in Language Skills test battery.;Word production;
+Antonym production;;Linguistic processing;;;x;;;;;;;Individual Differences in Language Skills test battery.;Word production;
+Maximal speech rate;;Linguistic processing;;;x;;;;;;;Individual Differences in Language Skills test battery.;Word production;
+Phrase generation;;Linguistic processing;;;x;;;;;;;Individual Differences in Language Skills test battery.;Sentence production;
+Sentence generation (active/passive sentence formulation);;Linguistic processing;;;x;;;;;;;Individual Differences in Language Skills test battery.;Sentence production;
+Sentence generation (event apprehension);;Linguistic processing;;;x;;;;;;;Individual Differences in Language Skills test battery.;Sentence production;
+Spontaneous speech - item data;language_spontaneous-speech_itemdata;Linguistic processing;;;x;😊;😊;😊;;;;Individual Differences in Language Skills test battery.;Sentence production;
+Spontaneous speech - final scores;language_spontaneous-speech_finalscores;Linguistic processing;;;x;😊;😊;😊;;;;;;
+Non-Word monitoring in non-word lists in noise;;Linguistic processing;;;x;;;;;;;Individual Differences in Language Skills test battery.;Word comprehension;
+Rhyme judgment;;Linguistic processing;;;x;;;;;;;Individual Differences in Language Skills test battery.;Word comprehension;
+Lexical decision;;Linguistic processing;;;x;;;;;;;Individual Differences in Language Skills test battery.;Word comprehension;
+Semantic categorization;;Linguistic processing;;;x;;;;;;;Individual Differences in Language Skills test battery.;Word comprehension;
+Word monitoring in sentences in noise;;Linguistic processing;;;x;;;;;;;Individual Differences in Language Skills test battery.;Sentence comprehension;
+Grammatical gender cues;;Linguistic processing;;;x;;;;;;;Individual Differences in Language Skills test battery.;Sentence comprehension;
+Verb-specific selective restrictions;;Linguistic processing;;;x;;;;;;;Individual Differences in Language Skills test battery.;Sentence comprehension;
+Self-paced reading;;Linguistic processing;;;x;;;;;;;Individual Differences in Language Skills test battery.;Sentence comprehension;

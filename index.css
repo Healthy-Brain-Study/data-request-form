@@ -1,0 +1,66 @@
+body {
+    padding-left: 7% !important; 
+    padding-right: 7% !important; 
+    padding-top: 4% !important; 
+}
+table {
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+.form-checkbox {
+    display: flex;
+    align-items: center; /* Aligns items vertically in the center */
+}
+
+.checkbox {
+    margin-right: 0.5rem; /* Space between the checkbox and the label */
+}
+
+.form-step {
+    display: none;
+}
+.form-step.active {
+    display: block;
+}
+.checkbox {
+    margin-right: 10px;
+}
+.bio-samples {
+    display: none;
+}
+
+html, body {
+    min-height: 100vh; /* Ensures at least the full height of the viewport */
+    margin: 0; /* Removes default margin */
+    padding: 0; /* Removes default padding */
+}
+@media (max-width: 640px) {
+    #researcherTable .grid-cols-6 {
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+    }
+}
+
+.btn-primary {
+    background-color: #a8b292;
+    color: black;
+    border-color: black;
+}
+
+.btn-primary:hover {
+    background-color: black;
+    color: white;
+    border-color: white;
+}
+
+
+.table-zebra tbody tr:nth-child(even) {
+    background-color: rgb(232, 232, 232);
+}
+
+.checkbox {
+    background-color: white;
+}

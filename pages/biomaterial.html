@@ -1,0 +1,36 @@
+<div class="form-step" data-button-title="Biomaterial">
+    <h2 class="font-bold text-lg mb-4">Biomaterial</h2>
+    <p class="">
+        Proposals that efficiently handle biosamples to avoid left-over samples as much as possible, are preferred.<br>
+        We prefer all samples being analysed. If a subset is requested, provide a plan to analyse the remaining
+        samples later.<br><br>
+        Researchers are responsible for the biosamples issuance and transportation costs from the Radboud Biobank to the
+        final destination.
+    </p>
+    <div class="form-checkbox mb-4 pt-4">
+        <input type="checkbox" id="require-biomaterial" class="checkbox">
+        <label for="require-biomaterial" class="font-bold">
+            Is biomaterial from the Healthy Brain Study biobank required for the proposal?
+        </label>
+    </div>
+
+    <label class="label font-bold bio-samples">
+        <span class="label-text">Contact Information Lab</span>
+    </label>
+    <textarea class="textarea textarea-bordered w-full bio-samples mb-7" id="contact-information-bio-samples"
+        data-placeholder="Contact Information Lab Bio-samples"></textarea>
+
+    <label class="label bio-samples">
+        <span class="label-text font-bold">Type of biomaterial</span>
+    </label>
+    <textarea class="textarea textarea-bordered w-full bio-samples mb-7" id="type-of-biomaterial"
+        data-placeholder="Type of biomaterial"></textarea>
+
+    <label class="label bio-samples">
+        <span class="label-text font-bold">Quantity of biomaterial per type</span><br>
+        <span class="bio-samples italic">Mention the required aliquot volume.</span>
+    </label>
+    <p></p>
+    <textarea class="textarea textarea-bordered w-full bio-samples mb-7" id="quantity-of-biomaterial"
+        data-placeholder="Quantity of biomaterial per type"></textarea>
+</div>

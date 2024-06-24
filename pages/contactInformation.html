@@ -1,0 +1,117 @@
+<div class="form-step active" data-button-title="Contact Information Applicant">
+    <h2 class="font-bold text-lg mb-4">Contact Information Main Applicant</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
+        <div>
+            <label class="block text-sm font-bold mb-1">Institution*</label>
+            <input type="text" name="main_institution" placeholder="Institution" class="input input-bordered w-full"
+                required="true">
+        </div>
+
+        <div>
+            <label class="block text-sm font-bold mb-1">Name*</label>
+            <input type="text" name="main_name" placeholder="Name" class="input input-bordered w-full" required="true">
+        </div>
+        <div>
+            <label class="block text-sm font-bold mb-1">Address*</label>
+            <input type="text" name="main_address" placeholder="Address" class="input input-bordered w-full"
+                required="true">
+        </div>
+        <div>
+            <label class="block text-sm font-bold mb-1">Zip code*</label>
+            <input type="text" name="main_zip" placeholder="Zip code" class="input input-bordered w-full"
+                required="true">
+        </div>
+        <div>
+            <label class="block text-sm font-bold mb-1">City*</label>
+            <input type="text" name="main_city" placeholder="City" class="input input-bordered w-full" required="true">
+        </div>
+        <div>
+            <label class="block text-sm font-bold mb-1">Country*</label>
+            <input type="text" name="main_country" placeholder="Country" class="input input-bordered w-full"
+                required="true">
+        </div>
+        <div>
+            <label class="block text-sm font-bold mb-1">Phone number*</label>
+            <input type="text" name="main_phone" placeholder="Phone number" class="input input-bordered w-full"
+                required="true">
+        </div>
+        <div>
+            <label class="block text-sm font-bold mb-1">Email address*</label>
+            <input type="email" name="main_email" placeholder="Email address" class="input input-bordered w-full"
+                required="true">
+        </div>
+        <div>
+            <label class="block text-sm font-bold mb-1">Project-relevant expertise</label>
+            <textarea name="main_expertise" placeholder="Project-relevant expertise"
+                class="textarea textarea-bordered w-full"></textarea>
+        </div>
+        <div>
+            <label class="block text-sm font-bold mb-1">Contribution to HBS study design or data acquisition?*</label>
+            <select name="main_contribution" data-placeholder="Contribution to HBS study design or data acquisition?"
+                class="select select-bordered w-full" required="true">
+                <option value="">Choose</option>
+                <option value="No">No</option>
+                <option value="Yes">Yes</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="form-check mb-4">
+        <input type="checkbox" id="diffPI" name="diffPI" class="checkbox">
+        <label for="diffPI" class="label-text">Principal Investigator is different from Main Applicant</label>
+    </div>
+
+    <div id="piInformation" class="hidden">
+        <h2 class="font-bold text-lg mb-4">Contact Information Principal Investigator</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div>
+                <label class="block text-sm font-bold mb-1">Institution*</label>
+                <input type="text" name="pi_institution" placeholder="Institution" class="input input-bordered w-full">
+            </div>
+
+            <div>
+                <label class="block text-sm font-bold mb-1">Name*</label>
+                <input type="text" name="pi_name" placeholder="Name" class="input input-bordered w-full">
+            </div>
+            <div>
+                <label class="block text-sm font-bold mb-1">Address*</label>
+                <input type="text" name="pi_address" placeholder="Address" class="input input-bordered w-full">
+            </div>
+            <div>
+                <label class="block text-sm font-bold mb-1">Zip code*</label>
+                <input type="text" name="pi_zip" placeholder="Zip code" class="input input-bordered w-full">
+            </div>
+            <div>
+                <label class="block text-sm font-bold mb-1">City*</label>
+                <input type="text" name="pi_city" placeholder="City" class="input input-bordered w-full">
+            </div>
+            <div>
+                <label class="block text-sm font-bold mb-1">Country*</label>
+                <input type="text" name="pi_country" placeholder="Country" class="input input-bordered w-full">
+            </div>
+            <div>
+                <label class="block text-sm font-bold mb-1">Phone number*</label>
+                <input type="text" name="pi_phone" placeholder="Phone number" class="input input-bordered w-full">
+            </div>
+            <div>
+                <label class="block text-sm font-bold mb-1">Email address*</label>
+                <input type="email" name="pi_email" placeholder="Email address" class="input input-bordered w-full">
+            </div>
+            <div>
+                <label class="block text-sm font-bold mb-1">Project-relevant expertise</label>
+                <textarea name="pi_expertise" placeholder="Project-relevant expertise"
+                    class="textarea textarea-bordered w-full"></textarea>
+            </div>
+            <div>
+                <label class="block text-sm font-bold mb-1">Contribution to HBS study design or data
+                    acquisition?*</label>
+                <select name="pi_contribution" data-placeholder="Contribution to HBS study design or data acquisition?"
+                    class="select select-bordered w-full">
+                    <option value="">Choose</option>
+                    <option value="No">No</option>
+                    <option value="Yes">Yes</option>
+                </select>
+            </div>
+        </div>
+    </div>
+</div>

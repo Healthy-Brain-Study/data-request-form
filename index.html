@@ -24,7 +24,26 @@
 <body class="bg-gray-100 p-5 pb-72">
     <img src="static/logo.png" class="object-cover w-64 pb-2" />
     <h1 class="text-3xl font-bold mb-4">Healthy Brain Study - Data Request</h1>
-
+    <script>
+        $(document).ready(async function () {
+            Swal.fire({
+                title: 'Data release round 2024-4 is closed!',
+                html: 'This preliminary data release round is closed. You can still visit our \
+                <a href="https://healthybrainstudy.nl" target="_blank" style="color: #7066e0;">website</a> or view the data table by clicking the button below.\
+                <br> \
+                For more information email: <a href="mailto:hbs-data@radboudumc.nl">hbs-data@radboudumc.nl</a>',
+                icon: 'info',
+                showConfirmButton: true,
+                confirmButtonText: 'Go to data availability',
+                showCloseButton: false,
+                allowOutsideClick: false,
+                allowEscapeKey: false,
+                preConfirm: () => {
+                    window.location.href = './data-table.html';  // Replace with your URL
+                }
+            });
+        });
+    </script>
     <form id="multiStepForm">
         <!-- Define template tags for each step -->
         <template id="step1" data-include="pages/contactInformation.html"></template>

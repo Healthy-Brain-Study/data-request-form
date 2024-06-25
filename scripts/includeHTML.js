@@ -33,6 +33,7 @@ async function loadHTMLTemplates() {
     }
 
     loadNavigationButtons();
+    loadScript("scripts/functions.js");
     loadScript("scripts/formValidation.js");
     loadScript("scripts/biomaterial.js");
     loadScript("scripts/dataSelection.js");

@@ -82,7 +82,7 @@ function loadNavigationButtons() {
 
         if (
             stepTitle == "Selection Requirements" &&
-            !checkboxesForAssessmentSelection.includes(true)
+            !checkboxesForAssessmentSelection.includes(true) && false
         ) {
             Swal.fire({
                 icon: "warning",
@@ -90,7 +90,7 @@ function loadNavigationButtons() {
                 text: "Please select at least 1 assessment for a variable.",
                 confirmButtonColor: "#a8b292",
             });
-        } else if (invalidInputElements.length != 0) {
+        } else if (invalidInputElements.length != 0 && false) {
             Swal.fire({
                 icon: "warning",
                 title: "Missing required form elements",
@@ -99,7 +99,7 @@ function loadNavigationButtons() {
             });
         } else if (
             stepTitle == "Data Selection" &&
-            Object.keys(selectedColumns).length == 0
+            Object.keys(selectedColumns).length == 0 && false
         ) {
             Swal.fire({
                 icon: "warning",
